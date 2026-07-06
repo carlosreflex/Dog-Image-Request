@@ -1,4 +1,8 @@
+__pycache__/
 .web/
 .states/
-__pycache__/
+.pytest_cache/
+.git/
+.venv/
+node_modules/
 /app/__pycache__/
